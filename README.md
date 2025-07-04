@@ -1,5 +1,5 @@
 <h1> Welcome to my Github Page! </h1>
-<h2> My name is Gavin, I'm a student at George Mason University </h2>
+<h2> My name is Gavin, it's nice to meet you! </h2>
 <body> I love learning about computers, and I have experience in Python, JAVA, and HTML.
 Other than making programs, I also like to try different operating systems and learn about the latest technology.
 This is a repository of my favorite programs I've made during my college career so far.</body>
