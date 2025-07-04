@@ -46,7 +46,7 @@ also makes sure the student isn't added twice and that the student is enrolled. 
 used at George Mason) the program just adds 1 to a five-digit 00000 number, so each student has a unique G number. </body>
 
 <h3><b>Banking Program</b></h3>
-<body> Before I took IT 209, I took a Python programming class at Northern Virginia Community College. I made this program to
+<body> Before I took my object oriented programming class, I took a Python programming class at NVCC. I made this program to
 touch up on my prior skills and to incorporate the skills I learned in the class. The program asks for a username that is five
 characters long or returns an error if the username isn't long enough or too long. It then asks for a password greater than 
 eight characters long and does the same thing. Lastly, it asks for an initial deposit, which must be greater than $0.
