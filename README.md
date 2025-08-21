@@ -2,7 +2,8 @@
 <h2> My name is Gavin, it's nice to meet you! </h2>
 <body> I love learning about computers, and I have experience in Python, JAVA, and HTML.
 Other than making programs, I also like to try different operating systems and learn about the latest technology.
-This is a repository of my favorite programs I've made during my college career so far.</body>
+This is a repository of my favorite programs I've made during my college career so far. I now have a personal website that you
+can visit, it can be accessed here: https://mason.gmu.edu/~gbirk/</body>
 
 
 <h2> Here are the programs I've made in JAVA and what they do: </h2>
